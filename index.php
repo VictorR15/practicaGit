@@ -81,6 +81,13 @@
     </div>
   </section>
 
+  <!-- NUEVA Característica 6 -->
+<div class="p-6 bg-white shadow rounded-lg">
+  <i class="fas fa-headset text-4xl text-blue-600 mb-4"></i>
+  <h3 class="text-xl font-bold mb-2">Soporte</h3>
+  <p>Asistencia técnica dedicada para resolver cualquier duda.</p>
+</div>
+
   <!-- Footer -->
   <footer class="bg-gray-800 text-white py-6">
     <div class="container mx-auto flex justify-center space-x-6">
