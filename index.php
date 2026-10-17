@@ -60,7 +60,7 @@
   <section class="py-16 bg-gray-50">
     <div class="container mx-auto text-center mb-10">
       <h2 class="text-3xl font-bold text-blue-600">Tecnologías</h2>
-      <p class="text-gray-600 mt-2">Herramientas modernas que usamos en nuestros proyectos</p>
+      <p class="text-gray-600 mt-3">Herramientas modernas que usamos en nuestros proyectos</p>
     </div>
     <div class="container mx-auto grid md:grid-cols-4 gap-8 text-center">
       <div class="p-6 bg-white shadow rounded-lg">
@@ -69,7 +69,7 @@
         <p class="text-gray-600">Estructura semántica y moderna para la web.</p>
       </div>
       <div class="p-6 bg-white shadow rounded-lg">
-        <i class="fab fa-css3-alt text-5xl text-blue-500 mb-4"></i>
+        <i class="fab fa-css3-alt text-4xl text-blue-500 mb-4"></i>
         <h3 class="text-xl font-semibold">CSS3</h3>
         <p class="text-gray-600">Estilos avanzados y animaciones fluidas.</p>
       </div>
